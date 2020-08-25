@@ -1,1 +1,0 @@
-# pool-block-withholding-attacks-
